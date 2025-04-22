@@ -1,4 +1,7 @@
-sword 
+sword
 wall
 standing
 on this
+
+Form the lines
+Shield by shield
